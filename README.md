@@ -13,9 +13,9 @@
 
 - 👨‍💻 All of my projects are available at [https://www.arghadeep.in/](https://www.arghadeep.in/)
 
-- 💬 Ask me about **Front-end tools and Technology**
+- 💬 Ask me about **JavaScript, TypeScript, Python tools and Technology**
 
-- 📫 How to reach me **mallickarghadeep1@gmail.com**
+- 📫 How to reach me **arghadeep.mallick@prediqt.it**
 
 - 📄 Know about my experiences [https://www.canva.com/design/DAFEV_SQlnk/view](https://www.canva.com/design/DAFEV_SQlnk/view)
 
