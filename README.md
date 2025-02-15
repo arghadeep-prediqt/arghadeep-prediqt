@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arghadeep-prediqt" alt="arghadeep-prediqt" /></a> </p>
 
-- 🔭 I’m currently working on [CRM Project](https://elstar.themenate.net/app/sales/dashboard)
+- 🔭 I’m currently working on [prediQt](https://www.prediqt.it/)
 
 - 🌱 I’m currently learning **Nest.JS**
 
