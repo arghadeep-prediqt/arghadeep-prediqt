@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on [prediQt](https://www.prediqt.it/)
 
-- 🌱 I’m currently learning **Nest.JS**
+- 🌱 I’m currently learning **Time Management**
 
-- 🤝 I’m looking for help with **AWS**
+- 🤝 I’m looking for help with **Data Science**
 
 - 👨‍💻 All of my projects are available at [https://www.arghadeep.in/](https://www.arghadeep.in/)
 
@@ -17,7 +17,6 @@
 
 - 📫 How to reach me **arghadeep.mallick@prediqt.it**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAFEV_SQlnk/view](https://www.canva.com/design/DAFEV_SQlnk/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
